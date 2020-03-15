@@ -5,6 +5,7 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import App from './App'
 import router from './router'
 import fastClick from 'fastclick'
+import 'babel-polyfill'
 // @代表src目录
 import store from './store'
 import 'swiper/dist/css/swiper.css'
